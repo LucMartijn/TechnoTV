@@ -1,0 +1,20 @@
+:root {
+
+    --Col1: #44205F;
+    --Col2: #94C01F;    
+    --Col3: #3b1c53;
+    --Col4: rgba(59, 28, 83, 0.6);
+
+    --Col5: rgb(79, 39, 110);
+    --Col6: rgb(38, 19, 53); 
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+    color: black;
+    min-height: 100vh;
+}

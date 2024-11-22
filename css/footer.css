@@ -1,0 +1,8 @@
+footer {
+    background-color: var(--Col1);
+    color: var(--Col2);
+    height: 3vh;
+    color: white;
+    padding: 10px;
+    bottom: 0;
+}

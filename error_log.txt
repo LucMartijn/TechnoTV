@@ -1,0 +1,166 @@
+2024-10-15 10:10:37 - Error [2] in C:\xampp\htdocs\TechnoTVPrototype\index.php on line 22: Undefined variable $conn
+2024-10-18 09:52:37 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 79: Undefined variable $conn
+2024-10-18 09:52:37 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 79: Undefined variable $conn
+2024-10-18 09:52:37 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 79: Undefined variable $conn
+2024-10-18 09:52:37 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 79: Undefined variable $conn
+2024-10-18 09:52:37 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 79: Undefined variable $conn
+2024-10-18 11:44:23 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:44:23 - Error [2] in C:\xampp\htdocs\TechnoTV\index.php on line 41: Undefined variable $WeeklyData
+2024-10-18 11:48:25 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:48:25 - Error [2] in C:\xampp\htdocs\TechnoTV\index.php on line 41: Undefined variable $WeeklyData
+2024-10-18 11:48:59 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:49:02 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:51:52 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:53:02 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:55:20 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:55:42 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:56:31 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:57:29 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-18 11:57:36 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'week' in 'where clause'2024-10-22 14:22:54 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 31: Undefined array key "name"
+2024-10-22 14:22:54 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 31: Undefined array key "name"
+2024-10-22 14:22:55 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 31: Undefined array key "name"
+2024-10-22 14:28:55 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 35: Undefined variable $result
+2024-10-22 14:29:23 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 36: Array to string conversion
+2024-10-22 14:40:23 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 32: Undefined array key "name"
+2024-10-22 14:40:40 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 32: Undefined array key "name"
+2024-10-22 14:43:46 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 43: Undefined array key "error"
+2024-10-22 14:44:47 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 49: Undefined array key "description"
+2024-10-22 14:56:28 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 32: Undefined variable $pdo
+2024-10-22 14:57:51 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 39: Undefined variable $id
+2024-10-22 14:58:27 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 42: Undefined variable $id
+2024-10-22 14:58:35 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 40: Undefined variable $id
+2024-10-22 15:01:39 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 39: Undefined variable $id
+2024-10-22 15:02:50 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 39: Undefined variable $id
+2024-10-22 15:06:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 42: Undefined variable $id
+2024-10-23 10:02:10 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 48: Undefined variable $pdo
+2024-10-23 10:10:58 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 71: Undefined variable $commandRunner
+2024-10-23 10:13:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 78: Undefined variable $stmt
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:06 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 117: Undefined array key "catergory"
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 117: Undefined array key "catergory"
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:31:38 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:33:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 126: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 131: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 136: Undefined variable $value
+2024-10-23 10:33:18 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 141: Undefined variable $value
+2024-10-23 10:39:21 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 117: Undefined array key "title"
+2024-10-23 10:55:21 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 96: Undefined variable $formType
+2024-10-23 10:57:19 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 96: Undefined variable $value
+2024-10-23 10:57:19 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 101: Undefined variable $value
+2024-10-23 10:57:19 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 106: Undefined variable $value
+2024-10-23 10:57:19 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 111: Undefined variable $value
+2024-10-23 10:58:36 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 102: Undefined variable $formType
+2024-10-23 11:04:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 162: Undefined variable $row
+2024-10-23 11:04:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 162: Trying to access array offset on value of type null
+2024-10-23 11:04:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 164: Undefined variable $row
+2024-10-23 11:04:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 164: Trying to access array offset on value of type null
+2024-10-23 11:04:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 166: Undefined variable $row
+2024-10-23 11:04:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 166: Trying to access array offset on value of type null
+2024-10-23 11:05:56 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 93: Undefined array key "description"
+2024-10-23 11:05:56 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 142: Undefined variable $stmt
+2024-10-23 11:06:28 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 93: Undefined array key "description"
+2024-10-23 11:06:28 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 142: Undefined variable $stmt
+2024-10-23 11:06:37 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 93: Undefined array key "description"
+2024-10-23 11:07:08 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 93: Undefined array key "description"
+2024-10-23 11:13:25 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 59: Undefined array key "name"
+2024-10-23 11:14:44 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 23: Undefined array key "name"
+2024-10-23 11:14:54 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 23: Undefined array key "textPreReset"
+2024-10-23 11:15:22 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 23: Undefined array key "textPreReset"
+2024-10-23 11:15:34 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 23: Undefined array key "textPreReset"
+2024-10-25 09:49:29 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 66: Undefined array key "description1"
+2024-10-25 09:49:29 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 67: Undefined array key "description2"
+2024-10-25 09:50:28 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 66: Undefined array key "description1"
+2024-10-25 09:50:28 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 67: Undefined array key "description2"
+2024-10-25 09:50:32 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 66: Undefined array key "description1"
+2024-10-25 09:50:32 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 67: Undefined array key "description2"
+2024-10-25 09:56:12 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 23: Undefined array key "name"
+2024-10-25 13:57:29 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 59: Undefined array key "table"
+2024-10-25 13:57:29 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 110: Undefined variable $stmt
+2024-10-25 13:58:43 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 59: Undefined array key "table"
+2024-10-25 13:58:43 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 110: Undefined variable $stmt
+2024-10-25 13:58:56 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 59: Undefined array key "table"
+2024-10-25 13:58:56 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 110: Undefined variable $stmt
+2024-10-25 13:58:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 59: Undefined array key "table"
+2024-10-25 13:58:57 - Error [2] in C:\xampp\htdocs\TechnoTV\temptest.php on line 110: Undefined variable $stmt
+2024-10-25 14:44:39 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 109: Undefined variable $stmt
+2024-11-07 14:47:10 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 57: Array to string conversion
+2024-11-07 14:47:10 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 57: Undefined variable $Array
+2024-11-07 14:47:10 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 57: Trying to access array offset on value of type null
+2024-11-07 14:47:10 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 58: Array to string conversion
+2024-11-07 14:47:10 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 58: Undefined variable $Array
+2024-11-07 14:47:10 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 58: Trying to access array offset on value of type null
+2024-11-07 14:48:05 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 57: Undefined array key "deleted"
+2024-11-07 14:48:05 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 58: Undefined array key "deleted"
+2024-11-07 14:56:27 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 57: Undefined array key "Deleted"
+2024-11-07 14:56:27 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 58: Undefined array key "Deleted"
+2024-11-07 15:06:03 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 60: Undefined variable $isDeleted
+2024-11-07 15:06:47 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 60: Undefined variable $isDeleted
+2024-11-07 15:07:59 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 60: Undefined variable $isDeleted
+2024-11-07 15:08:01 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 60: Undefined variable $isDeleted
+2024-11-07 15:08:30 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 60: Undefined variable $isDeleted
+2024-11-07 15:45:24 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 57: Undefined array key "Deleted"
+2024-11-07 15:45:48 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 60: Undefined variable $isDeleted
+2024-11-07 15:53:00 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 60: Undefined variable $isDeleted
+2024-11-08 11:27:06 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-08 11:27:06 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' deleted = 0' at line 12024-11-08 11:27:29 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-08 11:27:29 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-08 11:29:03 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-08 11:29:03 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-08 11:29:08 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-08 11:29:10 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-08 11:31:41 - Error discovered in Syntax, please fix before continueing. SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deleted' in 'where clause'2024-11-11 10:15:52 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 37: Undefined array key "gallery-image4-log"
+2024-11-11 10:15:52 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 38: Undefined array key "gallery-image5-log"
+2024-11-11 10:15:52 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 39: Undefined array key "gallery-image6-log"
+2024-11-11 10:15:52 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 40: Undefined array key "gallery-image7-log"
+2024-11-11 10:15:52 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 41: Undefined array key "gallery-image8-log"
+2024-11-11 10:15:52 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 42: Undefined array key "gallery-image9-log"
+2024-11-11 10:15:52 - Error [2] in C:\xampp\htdocs\TechnoTV\insert.php on line 43: Undefined array key "gallery-image10-log"
+2024-11-14 11:01:13 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 231: Undefined array key "Week"
+2024-11-14 11:01:13 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 231: Undefined array key "Week"
+2024-11-14 11:01:13 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 231: Undefined array key "Week"
+2024-11-14 11:01:13 - Error [2] in C:\xampp\htdocs\TechnoTV\beheer.php on line 231: Undefined array key "Week"

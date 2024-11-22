@@ -1,0 +1,99 @@
+/* General Styles */
+main{
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    min-height: 82.1vh;
+}
+
+
+/* Form Styles */
+form {
+    background: var(--Col2);
+    border: solid 2px var(--Col1);
+    color: var(--Col1);
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    box-shadow: 0 7px 15px rgba(148, 192, 31, 0.6);
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    background-color: var(--Col1);
+    color: white;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+button[name="delete"] {
+    background-color: #f44336;
+}
+
+button[name="delete"]:hover {
+    background-color: #d32f2f;
+}
+
+/* Error Message */
+.error {
+    color: var(--Col1);
+    background-color: var(--Col4);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+/* Success Message */
+.success {
+    color: var(--Col2);
+    background-color: #e8f5e9;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-size: 35px;
+}
+.primary-form > h1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+label {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 20px;
+}

@@ -1,0 +1,23 @@
+[
+
+    {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    },
+    {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    }
+]
